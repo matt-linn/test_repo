@@ -2,3 +2,5 @@
 test for class
 
 hello
+
+I made a change.
